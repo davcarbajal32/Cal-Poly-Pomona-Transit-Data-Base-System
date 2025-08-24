@@ -4,16 +4,27 @@ Designed and implemented a database system in MySQL to model a university transi
 
 Goal of the project is to make the system do the following:
 - Display the schedule of all trips for a given start location, destination, and date, including start time, arrival time, driver, and bus.
+  
 - Edit the schedule (TripOffering table):
--Delete a trip offering (by Trip#, Date, and ScheduledStartTime).
+  
+-Delete a trip offering (by Trip#, Date, and ScheduledStartTime
+
 -Add trip offerings (with all attributes provided).
+
 -Change the driver for a trip offering.
+
 -Change the bus for a trip offering.
+
 -Display the stops of a given trip (TripStopInfo).
+
 -Display the weekly schedule of a given driver.
+
 -Add a driver.
+
 -Add a bus.
+
 -Delete a bus.
+
 -Record the actual trip data (ActualTripStopInfo) for a given trip offering
 
 Technologies Used:
