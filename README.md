@@ -3,9 +3,9 @@ Description:
 Designed and implemented a database system in MySQL to model a university transit system, including routes, stops, buses, and schedules. Built normalized relational schemas, defined primary/foreign keys, and wrote SQL queries to manage operations such as route assignments, schedule updates, and capacity tracking. Currently extending the project by connecting the database system to Python for advanced querying, automation, and integration with data analysis workflows.
 
 Goal of the project is to make the system do the following:
-- Display the schedule of all trips for a given start location, destination, and date, including start time, arrival time, driver, and bus.
+-Display the schedule of all trips for a given start location, destination, and date, including start time, arrival time, driver, and bus.
   
-- Edit the schedule (TripOffering table):
+-Edit the schedule (TripOffering table):
   
 -Delete a trip offering (by Trip#, Date, and ScheduledStartTime
 
@@ -19,9 +19,7 @@ Goal of the project is to make the system do the following:
 
 -Display the weekly schedule of a given driver.
 
--Add a driver.
-
--Add a bus.
+-Add a driver or bus.
 
 -Delete a bus.
 
