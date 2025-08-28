@@ -1,6 +1,6 @@
 # Cal-Poly-Pomona-Transit-Data-Base-System
 Description:
-Designed and implemented a database system in MySQL to model a university transit system, including routes, stops, buses, and schedules. Built normalized relational schemas, defined primary/foreign keys, and wrote SQL queries to manage operations such as route assignments, schedule updates, and capacity tracking. Currently extending the project by connecting the database system to Python for advanced querying, automation, and integration with data analysis workflows.
+Designed and implemented a database system in MySQL to model my university transit system, including routes, stops, buses, and schedules. Built normalized relational schemas, defined primary/foreign keys, and wrote SQL queries to manage operations such as route assignments, schedule updates, and capacity tracking. Currently extending the project by connecting the database system to Python for advanced querying, automation, and integration with data analysis workflows.
 
 Goal of the project is to make the system do the following:
 
